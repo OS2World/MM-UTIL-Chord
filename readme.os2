@@ -1,0 +1,23 @@
+This is a quick port of CHORD 3.6.2 for OS/2.
+
+As someone may already know, Chord is a little program designed to
+make music typesetting easier for guitarist and keyboard players.
+
+Details and examples are included in the official documentation.
+
+I simply modified a little the original makefile to obtain an optimized
+OS/2 executable program with GCC 3.3.5 and the Build Environment
+made by Paul Smedley.
+
+Please note that you will only need the two executable programs (and
+the documentation) to make it work. I included the sources just for
+completeness.
+
+If you find this useful or fun, please let me know and consider making
+a donation to Paul Smedley, whose great work is givin us the opportunity
+to broaden the OS/2 (native) applications world.
+
+Have fun!
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it

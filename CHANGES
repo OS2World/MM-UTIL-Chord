@@ -1,0 +1,2 @@
+2005-11-02 Morten Sickel
+changed Makefile to remove a2crd on "make clean"
